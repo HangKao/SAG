@@ -28,6 +28,12 @@ SAG hold the potential to achieve the interpretation in 3D seismic volume by pro
 
 
 
+## Dataset
+
+The multi-geobody dataset used in this work 
+will be updated through Zenodo.
+
+
 
 
 
